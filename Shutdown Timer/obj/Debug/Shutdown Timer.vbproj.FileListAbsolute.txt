@@ -1,0 +1,21 @@
+C:\Users\Ihr Name\Desktop\VB Projekte\Shutdown Timer\Shutdown Timer\bin\Debug\Shutdown Timer.exe.config
+C:\Users\Ihr Name\Desktop\VB Projekte\Shutdown Timer\Shutdown Timer\bin\Debug\Shutdown Timer.exe
+C:\Users\Ihr Name\Desktop\VB Projekte\Shutdown Timer\Shutdown Timer\bin\Debug\Shutdown Timer.pdb
+C:\Users\Ihr Name\Desktop\VB Projekte\Shutdown Timer\Shutdown Timer\bin\Debug\Shutdown Timer.xml
+C:\Users\Ihr Name\Desktop\VB Projekte\Shutdown Timer\Shutdown Timer\obj\Debug\Shutdown_Timer.Resources.resources
+C:\Users\Ihr Name\Desktop\VB Projekte\Shutdown Timer\Shutdown Timer\obj\Debug\Shutdown Timer.vbproj.GenerateResource.Cache
+C:\Users\Ihr Name\Desktop\VB Projekte\Shutdown Timer\Shutdown Timer\obj\Debug\Shutdown Timer.exe
+C:\Users\Ihr Name\Desktop\VB Projekte\Shutdown Timer\Shutdown Timer\obj\Debug\Shutdown Timer.xml
+C:\Users\Ihr Name\Desktop\VB Projekte\Shutdown Timer\Shutdown Timer\obj\Debug\Shutdown Timer.pdb
+C:\Users\Ihr Name\Desktop\VB Projekte\Shutdown Timer\Shutdown Timer\obj\Debug\Shutdown Timer.vbprojResolveAssemblyReference.cache
+C:\Users\Ihr Name\Desktop\VB Projekte\Shutdown Timer\Shutdown Timer\obj\Debug\Shutdown_Timer.Umrechner.resources
+C:\Users\Ihr Name\Desktop\VB Projekte\Shutdown Timer\Shutdown Timer\obj\Debug\Shutdown_Timer.Countdown.resources
+C:\Users\Ihr Name\Desktop\VB Projekte\Shutdown Timer\Shutdown Timer\obj\Debug\Shutdown_Timer.Hauptmenü.resources
+C:\Users\Ihr Name\Desktop\VB Projekte\Shutdown Timer\Shutdown Timer\obj\Debug\Shutdown_Timer.Uhrzeit.resources
+C:\Users\Ihr Name\Desktop\VB Projekte\Shutdown Timer\Shutdown Timer\obj\Debug\Shutdown_Timer.Einstellungen.resources
+C:\Users\Ihr Name\Desktop\VB Projekte\Shutdown Timer\Shutdown Timer\obj\Debug\Shutdown_Timer.Einstellungen_Uhrzeit.resources
+C:\Users\Ihr Name\Desktop\VB Projekte\Shutdown Timer\Shutdown Timer\obj\Debug\Shutdown_Timer.SplashScreen.resources
+E:\Bibliothek\Desktop\VB Projekte\Shutdown Timer\Shutdown Timer\bin\Debug\Shutdown Timer.exe.config
+E:\Bibliothek\Desktop\VB Projekte\Shutdown Timer\Shutdown Timer\obj\Debug\Shutdown Timer.exe
+E:\Bibliothek\Desktop\VB Projekte\Shutdown Timer\Shutdown Timer\obj\Debug\Shutdown Timer.xml
+E:\Bibliothek\Desktop\VB Projekte\Shutdown Timer\Shutdown Timer\obj\Debug\Shutdown Timer.pdb
